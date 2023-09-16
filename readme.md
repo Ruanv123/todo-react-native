@@ -2,4 +2,4 @@
 
 O projeto foi desenvolvido em react native e typescript de maneira simples e prática
 
-![imagem do app]('https://raw.githubusercontent.com/Ruanv123/todo-react-native/main/img1.png')
+![]('https://raw.githubusercontent.com/Ruanv123/todo-react-native/main/img1.png')
